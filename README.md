@@ -16,3 +16,10 @@ Artificial Intelligence-UIUC-CS course assignments
  *  Decisions Using a Naive Bayes Model.
 
  *  Optimizing Hyperparameters.
+
+## MP3: Hidden Markov Model
+ *  Baseline Tagger.
+
+ *  Viterbi: HMM Tagger.
+
+ *  Viterbi_ec: Improveing HMM Tagger by improve emission smoothing to match the real probabilities for unseen words.
