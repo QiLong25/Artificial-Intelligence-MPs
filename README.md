@@ -23,3 +23,6 @@ Artificial Intelligence-UIUC-CS course assignments
  *  Viterbi: HMM Tagger.
 
  *  Viterbi_ec: Improveing HMM Tagger by improve emission smoothing to match the real probabilities for unseen words.
+
+## MP4: Perceptron
+ *  Single Classical Perceptron Training & Testing.
