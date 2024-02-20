@@ -26,3 +26,16 @@ Artificial Intelligence-UIUC-CS course assignments
 
 ## MP4: Perceptron
  *  Single Classical Perceptron Training & Testing.
+
+## MP5: Neural Networks
+ *  PyTorch Tutorial: Datasets, Dataloaders, Tensors.
+
+ *  Neural Net Layers: linear layers, activation functions.
+
+ *  Train a Model: forward(), loss function, back propagation, optimizer (SGD).
+
+ *  Convolutional Neural Network: convolution, pooling, flatten.
+
+ *  L2 Regularization: Adam, Adagrad, weight_decay.
+
+ *  Hyperparameters: epochs, batch_size, learning_rate, learning_rate_decay.
