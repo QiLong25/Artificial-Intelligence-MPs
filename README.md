@@ -47,7 +47,10 @@ Artificial Intelligence-UIUC-CS course assignments
 
  *  **A\***: Estimate cost from current space to waypoint, Faster BFS.
 
+![BFS](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/fe13ceae-0772-4abe-859d-2fbe94ccc2a8)
+
  *  **Multi-waypoints**: Search path through all waypoints.
-![BFS](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/fe13ceae-0772-4abe-859d-2fbe94ccc2a8)![multi-waypoints](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f5951b6d-37ef-4a6e-aebf-f02ef21a121b)
+
+![multi-waypoints](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f5951b6d-37ef-4a6e-aebf-f02ef21a121b)
 
 
