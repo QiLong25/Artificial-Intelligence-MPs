@@ -9,6 +9,8 @@ Artificial Intelligence-UIUC-CS course assignments
  *  **Expected Value of a Function of an RV**.
 
 ## MP2: Naive Bayes
+*Movie Review Classification*
+
 [Stanford Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
 
  *  **Learning a Naive Bayes Model**: Maximum Likelihood, Stop Words, Laplace Smoothing.
@@ -18,6 +20,8 @@ Artificial Intelligence-UIUC-CS course assignments
  *  **Optimizing Hyperparameters**.
 
 ## MP3: Hidden Markov Model
+*Word Sequence*
+
  *  **Baseline Tagger**.
 
  *  **Viterbi**: HMM Tagger.
@@ -63,5 +67,32 @@ https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f269170
  *  **Alphabeta Search**: Alphabeta pruning on Minimax method, reduce evaluations on unnecessary leaf nodes.
 
  *  **Learn Heuristic**: train a neural network to compute a better heuristic.
+
+## MP8: Repeated Games
+*The Lunch Game*
+
+ *  **Episodic Games: Gradient Ascent**, find optimal policy leading to Nash Equilibrium. (*Problem: cannot converge*)
+
+![orbit_plot](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/270c4a08-5cf7-4ea4-a426-08e6f0c80b0c)
+
+ *  **Episodic Games: Corrected Ascent**, symplectic correction making use of Hessian.
+
+![hessian_plot](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/07c46bdb-82d8-45a1-94e8-3e578fe80270)
+
+ *  **Sequential Games**: Optimize policy based on its own and opponent's previous behavior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
