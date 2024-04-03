@@ -53,4 +53,15 @@ Artificial Intelligence-UIUC-CS course assignments
 
 ![multi-waypoints](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f5951b6d-37ef-4a6e-aebf-f02ef21a121b)
 
+## MP7: Minimax
+*Chess AI-agent*
+
+https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f2691704-43df-4d2b-8133-513b264e24f0
+
+ *  **Minimax Search**: Optimize action based on minimax tree search of various depth.
+
+ *  **Alphabeta Search**: Alphabeta pruning on Minimax method, reduce evaluations on unnecessary leaf nodes.
+
+ *  **Learn Heuristic**: train a neural network to compute a better heuristic.
+
 
