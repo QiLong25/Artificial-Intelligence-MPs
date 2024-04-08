@@ -81,6 +81,25 @@ https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f269170
 
  *  **Sequential Games**: Optimize policy based on its own and opponent's previous behavior.
 
+## MP9: Transformers
+*Build Transformer from Scratch*
+
+ *  **Multi-head Attention**: Q, K, V matrix multiplication with weights, Scaled Attention Mechanism.
+
+ *  **Positional Encoding**: sine and cosine of different frequencies.
+
+ *  **Mask**: padding mask (pad to same length sequences), attention mask (avoid decoder looking forward).
+
+ *  **Special Tokens**: <sos>, <eos>, used in decoder.
+
+ *  **Encoder**: Stack of encoder layers, each layer has two sets of sub-layer operations (multi-head **self-attention** + position-wise, fully connected feed-forward network), dropout, residual, layer normalization.
+
+ *  **Teacher-forcing Decoder**: Stack of decoder layers, each layer has three sets of sub-layer operations (multi-head **self-attention** + multi-head **encoder-decoder attention** + position-wise, fully connected feed-forward network), dropout, residual, layer normalization.
+
+ *  **Auto-regressive Decoder**: Decoder one-step-forward, layer cache, output append to input.
+
+![image](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/41b68db1-6b5e-46f3-a681-e81815a00dce)
+
 
 
 
