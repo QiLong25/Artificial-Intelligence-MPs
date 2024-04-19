@@ -100,6 +100,18 @@ https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f269170
 
 ![image](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/41b68db1-6b5e-46f3-a681-e81815a00dce)
 
+## MP10: Markov Decision Process
+*Grid World*
+
+![grid_world](https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/d660547f-5c05-46cc-ae75-01f3d71b651d)
+
+ *  **Transition Matrix**: probability distribution of state transition over all state-action pairs.
+
+ *  **Value Iteration**: one-step greedy Bellman update for each iteration till stable.
+
+ *  **Policy Evaluation**: one-step Bellman approximation for each iteration till stable. 
+
+
 
 
 
