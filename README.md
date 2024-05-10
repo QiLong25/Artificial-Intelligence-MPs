@@ -109,7 +109,20 @@ https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/f269170
 
  *  **Value Iteration**: one-step greedy Bellman update for each iteration till stable.
 
- *  **Policy Evaluation**: one-step Bellman approximation for each iteration till stable. 
+ *  **Policy Evaluation**: one-step Bellman approximation for each iteration till stable.
+
+## MP11: Policy Gradient
+ *OpenAI Gym* 
+
+ *  **Vanilla Policy Gradient**: Implement Policy Gradient Loss, Train a neural network to return optimal action, Policy Training.
+
+ *  **Advantage Estimation**: Train another neural network to stimate the mean future return, use difference to long-term return as advantage.
+
+ *  **PPO**: Monitor policy update step-size, clip too large shift from original policy.
+
+https://github.com/QiLong25/Artificial-Intelligence-MPs/assets/143149589/583d3bde-7755-4ebc-8f18-c08186afa7e9
+
+
 
 
 
